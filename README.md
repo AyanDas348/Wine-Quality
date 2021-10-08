@@ -1,0 +1,1 @@
+This is a practice project to follow along live classes on MLOps
